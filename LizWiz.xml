@@ -1,0 +1,7 @@
+<Panel id="outcast" width="50" Height="110" position="-73 38 -21" rotation="0 0 180" padding="2 2 2 2">
+  <VerticalLayout childForceExpandHeight="False" spacing ="2">
+    <Image id="outcastMouse" image="Outcast" color="rgba(1, 1, 1, 0)" preserveAspect="True" onClick="updateOutcast"/>
+    <Image id="outcastRabbit" image="Outcast" color="rgba(1, 1, 1, 1)" preserveAspect="True" onClick="updateOutcast"/>
+    <Image id="outcastFox" image="Outcast" color="rgba(1, 1, 1, 0)" preserveAspect="True" onClick="updateOutcast"/>
+  </VerticalLayout>
+</Panel>
