@@ -1,7 +1,7 @@
 # LizardWizard
 Compact Lizard Cult outcast utility for use with Leder Games' Root on TTS
 Steam workshop link: https://steamcommunity.com/sharedfiles/filedetails/?id=2302408180
-===============================
+-------------------------
 Everyone who's played a game opposite a Lizard Cult player knows the faction comes with one fatal flaw:
 No, not the part where they're really difficult to win with. The flaw of having to constantly remind yourself to send every discarded card all the way across the table rather than discarding it normally. Suboptimal!
 
